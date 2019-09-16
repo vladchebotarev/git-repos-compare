@@ -1,0 +1,22 @@
+{
+    "repo1": {
+        "full_name": "GrahamCampbell\/Laravel-GitHub",
+        "language": "PHP",
+        "forks": 72,
+        "stars": 336,
+        "watchers": 336,
+        "pushed_at": "2019-08-26T19:05:38Z",
+        "open_pull_request": 0,
+        "closed_pull_request": 42
+    },
+    "repo2": {
+        "full_name": "GrahamCampbell\/Laravel-GitHub",
+        "language": "PHP",
+        "forks": 72,
+        "stars": 336,
+        "watchers": 336,
+        "pushed_at": "2019-08-26T19:05:38Z",
+        "open_pull_request": 0,
+        "closed_pull_request": 42
+    }
+}

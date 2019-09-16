@@ -1,0 +1,166 @@
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://github.com/GrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://gi.com/GrCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T033630.200.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&jgjg=jgkugkhkh
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://gi.com/GrCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T030853.422.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&jgjg=jgkugkhkh
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://gi.com/GrCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T030814.500.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://githuGrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://gi.com/GrCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T030702.200.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://github.com/GrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://gi.com/GrCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T030637.200.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://github.com/GrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://gi.com/GrahamCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T030616.200.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://github.com/GrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://gi.com/GrahamCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T030600.500.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://github.com/GrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://gi.com/GrahamCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T030553.500.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://github.com/GrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://git.com/GrahamCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T030548.500.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://github.com/GrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://git.com/GrahamCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T030537.500.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://github.com/GrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://github.com/GrahamCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T030350.200.json
+
+###
+
+POST http://127.0.0.1:8000/api/comparejhjhg?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://github.com/GrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://git.com/GrahamCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T022732.404.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://github.com/GrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://git.com/GrahamCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T022454.200.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://github.com/GrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://github.com/GrahamCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T022008.200.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://github.com/GrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+{     "repo1": "https://github.com/GrahamCampbell/Laravel-GitHub",     "repo2": "https://github.com/GrahamCampbell/Laravel-GitHub" }
+
+<> 2019-09-16T021904.500.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare?repo1=https://github.com/GrahamCampbell/Laravel-GitHub&repo2=https://github.com/GrahamCampbell/Laravel-GitHub
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2019-09-16T021644.500.json
+
+###
+
+POST http://127.0.0.1:8000/api/compare
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2019-09-16T021347.500.json
+
+###
+

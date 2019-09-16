@@ -1,0 +1,222 @@
+{
+    "message": "syntax error, unexpected '->' (T_OBJECT_OPERATOR)",
+    "exception": "Symfony\\Component\\Debug\\Exception\\FatalThrowableError",
+    "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/app/Http/Controllers/ApiController.php",
+    "line": 58,
+    "trace": [
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/composer/ClassLoader.php",
+            "line": 322,
+            "function": "Composer\\Autoload\\includeFile"
+        },
+        {
+            "function": "loadClass",
+            "class": "Composer\\Autoload\\ClassLoader",
+            "type": "->"
+        },
+        {
+            "function": "spl_autoload_call"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+            "line": 804,
+            "function": "__construct",
+            "class": "ReflectionClass",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+            "line": 682,
+            "function": "build",
+            "class": "Illuminate\\Container\\Container",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+            "line": 630,
+            "function": "resolve",
+            "class": "Illuminate\\Container\\Container",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
+            "line": 768,
+            "function": "make",
+            "class": "Illuminate\\Container\\Container",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+            "line": 233,
+            "function": "make",
+            "class": "Illuminate\\Foundation\\Application",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+            "line": 833,
+            "function": "getController",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+            "line": 794,
+            "function": "controllerMiddleware",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 693,
+            "function": "gatherMiddleware",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 673,
+            "function": "gatherRouteMiddleware",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 657,
+            "function": "runRouteWithinStack",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 623,
+            "function": "runRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 612,
+            "function": "dispatchToRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 176,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 130,
+            "function": "Illuminate\\Foundation\\Http\\{closure}",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 171,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 171,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php",
+            "line": 27,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 171,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php",
+            "line": 62,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 171,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/fideloper/proxy/src/TrustProxies.php",
+            "line": 57,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 171,
+            "function": "handle",
+            "class": "Fideloper\\Proxy\\TrustProxies",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 105,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 151,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 116,
+            "function": "sendRequestThroughRouter",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/public/index.php",
+            "line": 55,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/Users/vladislavchebotarev/Documents/Schibsted/schibsted/server.php",
+            "line": 21,
+            "function": "require_once"
+        }
+    ]
+}
