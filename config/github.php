@@ -24,7 +24,7 @@ return [
     |
     */
 
-    'default' => 'other',
+    'default' => 'main',
 
     /*
     |--------------------------------------------------------------------------
@@ -33,7 +33,7 @@ return [
     |
     | Here are each of the connections setup for your application. Example
     | configuration has been included, but you may add as many connections as
-    | you would like. Note that the 5 supported authentication methods are:
+    | you would like. Note that the 5 sphpupported authentication methods are:
     | "application", "jwt", "none", "password", and "token".
     |
     */
@@ -41,7 +41,7 @@ return [
     'connections' => [
 
         'main' => [
-            'token'      => 'your-token',
+            'token'      => '82a4cd1960c1b8bad61988428308dc0b3a6410e3',
             'method'     => 'token',
             // 'backoff'    => false,
             // 'cache'      => false,
@@ -69,8 +69,8 @@ return [
         ],
 
         'other' => [
-            'username'   => 'vladchebotarev',
-            'password'   => 'BSD4everV22012',
+            'username'   => 'username',
+            'password'   => 'password',
             'method'     => 'password',
             // 'backoff'    => false,
             // 'cache'      => false,
